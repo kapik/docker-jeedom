@@ -1,1 +1,1 @@
-# jeedom
+# Docker Jeedom (MySQL included)
